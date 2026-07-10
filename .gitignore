@@ -1,0 +1,10 @@
+# IgnorING the target folder inside any sub-directory
+**/target/
+
+# Ignoring IDE/Editor files
+.vscode/
+.DS_Store
+
+# Ignoring compiled binary files (if you compile main.rs directly)
+*.exe
+*.out
