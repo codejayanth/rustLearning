@@ -69,6 +69,8 @@ fn main() {
     // tuple structs
     let organge = Color(0, 5, 6);
 
+    
+
 
 }
 
